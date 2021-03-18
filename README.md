@@ -2,7 +2,7 @@
 
 ### 使用Github Actions 实现时光相册自动签到
 
-#使用方法
+# 使用方法
 1. 右上角fork本仓库
 2. 点击Settings -> Secrets -> 点击绿色按钮 (如无绿色按钮说明已激活。直接到第三步。)
 3. 新增 new secret 并设置 Secrets:
@@ -21,4 +21,5 @@
 
 #### 如何获取时光相册登录账号密码
 
-- ##### WEB
+- ##### 打开开发者工具栏，登录时光相册官网。
+![image](https://github.com/ZhangRuiMingZRM/ever_photo/blob/main/ever.png)
